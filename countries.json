@@ -1,216 +1,212 @@
 [{
-    "country": "United Kingdom",
-    "city": "London"
-},
-{
     "country": "Canada",
-    "city": "Ottawa"
-},
-{
-    "country": "Australia",
-    "city": "Canberra"
-},
-{
-    "country": "France",
-    "city": "Paris"
-},
-{
-    "country": "Germany",
-    "city": "Berlin"
-},
-{
-    "country": "Italy",
-    "city": "Rome"
-},
-{
-    "country": "Spain",
-    "city": "Madrid"
-},
-{
-    "country": "Russia",
-    "city": "Moscow"
-},
-{
-    "country": "China",
-    "city": "Beijing"
-},
-{
-    "country": "Japan",
-    "city": "Tokyo"
-},
-{
-    "country": "South Korea",
-    "city": "Seoul"
+    "city": "Ottawa",
+    "code": "ca"
 },
 {
     "country": "Mexico",
-    "city": "Mexico City"
+    "city": "Mexico City",
+    "code": "mx"
+},
+{
+    "country": "Brazil",
+    "city": "Brasília",
+    "code": "br"
 },
 {
     "country": "Argentina",
-    "city": "Buenos Aires"
+    "city": "Buenos Aires",
+    "code": "ar"
 },
 {
-    "country": "Peru",
-    "city": "Lima"
+    "country": "United Kingdom",
+    "city": "London",
+    "code": "gb"
 },
 {
-    "country": "Chile",
-    "city": "Santiago"
+    "country": "France",
+    "city": "Paris",
+    "code": "fr"
 },
 {
-    "country": "South Africa",
-    "city": "Pretoria"
+    "country": "Germany",
+    "city": "Berlin",
+    "code": "de"
 },
 {
-    "country": "Egypt",
-    "city": "Cairo"
+    "country": "Italy",
+    "city": "Rome",
+    "code": "it"
 },
 {
-    "country": "Nigeria",
-    "city": "Abuja"
-},
-{
-    "country": "Kenya",
-    "city": "Nairobi"
-},
-{
-    "country": "Morocco",
-    "city": "Rabat"
-},
-{
-    "country": "Saudi Arabia",
-    "city": "Riyadh"
-},
-{
-    "country": "United Arab Emirates",
-    "city": "Abu Dhabi"
-},
-{
-    "country": "Turkey",
-    "city": "Ankara"
-},
-{
-    "country": "Greece",
-    "city": "Athens"
+    "country": "Spain",
+    "city": "Madrid",
+    "code": "es"
 },
 {
     "country": "Portugal",
-    "city": "Lisbon"
+    "city": "Lisbon",
+    "code": "pt"
 },
 {
     "country": "Netherlands",
-    "city": "Amsterdam"
-},
-{
-    "country": "Switzerland",
-    "city": "Bern"
-},
-{
-    "country": "Sweden",
-    "city": "Stockholm"
-},
-{
-    "country": "Norway",
-    "city": "Oslo"
-},
-{
-    "country": "Denmark",
-    "city": "Copenhagen"
-},
-{
-    "country": "Finland",
-    "city": "Helsinki"
-},
-{
-    "country": "Ireland",
-    "city": "Dublin"
-},
-{
-    "country": "Austria",
-    "city": "Vienna"
+    "city": "Amsterdam",
+    "code": "nl"
 },
 {
     "country": "Belgium",
-    "city": "Brussels"
+    "city": "Brussels",
+    "code": "be"
 },
 {
-    "country": "Czech Republic",
-    "capital": "Prague"
+    "country": "Switzerland",
+    "city": "Bern",
+    "code": "ch"
 },
 {
-    "country": "Indonesia",
-    "city": "Jakarta"
+    "country": "Sweden",
+    "city": "Stockholm",
+    "code": "se"
 },
 {
-    "country": "Thailand",
-    "city": "Bangkok"
+    "country": "Norway",
+    "city": "Oslo",
+    "code": "no"
 },
 {
-    "country": "Malaysia",
-    "city": "Kuala Lumpur"
-}, 
+    "country": "Denmark",
+    "city": "Copenhagen",
+    "code": "dk"
+},
 {
-    "country": "Philippines",
-    "city": "Manila"
-}, 
+    "country": "Finland",
+    "city": "Helsinki",
+    "code": "fi"
+},
 {
-    "country": "Singapore",
-    "city": "Singapore"
-}, 
+    "country": "Russia",
+    "city": "Moscow",
+    "code": "ru"
+},
+{
+    "country": "China",
+    "city": "Beijing",
+    "code": "cn"
+},
+{
+    "country": "Japan",
+    "city": "Tokyo",
+    "code": "jp"
+},
+{
+    "country": "South Korea",
+    "city": "Seoul",
+    "code": "kr"
+},
+{
+    "country": "North Korea",
+    "city": "Pyongyang",
+    "code": "kp"
+},
 {
     "country": "India",
-    "city": "New Delhi"
-}, 
+    "city": "New Delhi",
+    "code": "in"
+},
 {
     "country": "Pakistan",
-    "city": "Islamabad"
-}, 
+    "city": "Islamabad",
+    "code": "pk"
+},
 {
     "country": "Bangladesh",
-    "city": "Dhaka"
-}, 
+    "city": "Dhaka",
+    "code": "bd"
+},
 {
+    "country": "Sri Lanka",
+    "city": "Colombo",
+    "code": "lk"
+},
+{
+    "country": "Nepal",
+    "city": "Kathmandu",
+    "code": "np"
+},
+{
+    "country": "Australia",
+    "city": "Canberra",
+    "code": "au"
+}, {
+    "country": "New Zealand",
+    "city": "Wellington",
+    "code": "nz"
+}, {
+    "country": "Indonesia",
+    "city": "Jakarta",
+    "code": "id"
+}, {
+    "country": "Thailand",
+    "city": "Bangkok",
+    "code": "th"
+}, {
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "code": "my"
+}, {
+    "country": "Singapore",
+    "city": "Singapore",
+    "code": "sg"
+}, {
+    "country": "Philippines",
+    "city": "Manila",
+    "code": "ph"
+}, {
     "country": "Vietnam",
-    "city": "Hanoi"
-}, 
-{
-    "country": "South Sudan",
-    "city": "Juba"
-}, 
-{
-    "country": "Ethiopia",
-    "city": "Addis Ababa"
-}, 
-{
-    "country": "Tanzania",
-    "city": "Dodoma"
-}, 
-{
-    "country": "Uganda",
-    "city": "Kampala"
-}, 
-{
-    "country": "Somalia",
-    "city": "Mogadishu"
-}, 
-{
+    "city": "Hanoi",
+    "code": "vn"
+}, {
+    "country": "Cambodia",
+    "city": "Phnom Penh",
+    "code": "kh"
+}, {
+    "country": "Myanmar",
+    "city": "Naypyidaw",
+    "code": "mm"
+}, {
+    "country": "Egypt",
+    "city": "Cairo",
+    "code": "eg"
+}, {
+    "country": "Nigeria",
+    "city": "Abuja",
+    "code": "ng"
+}, {
+    "country": "Kenya",
+    "city": "Nairobi",
+    "code": "ke"
+}, {
+    "country": "Ghana",
+    "city": "Accra",
+    "code": "gh"
+}, {
+    "country": "Morocco",
+    "city": "Rabat",
+    "code": "ma"
+}, {
     "country": "Algeria",
-    "city": "Algiers"
-}, 
-{
+    "city": "Algiers",
+    "code": "dz"
+}, {
     "country": "Tunisia",
-    "city": "Tunis"
-}, 
-{
-    "country": "Libya",
-    "city": "Tripoli"
-}, 
-{
-    "country": "Iran",
-    "city": "Tehran"
-}, 
-{
-    "country": "Iraq",
-    "city": "Baghdad"
+    "city": "Tunis",
+    "code": "tn"
+}, {
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "code": "sa"
+}, {
+    "country": "United Arab Emirates",
+    "city": "Abu Dhabi",
+    "code": "ae"
 }]
