@@ -1,0 +1,216 @@
+[{
+    "country": "United Kingdom",
+    "city": "London"
+},
+{
+    "country": "Canada",
+    "city": "Ottawa"
+},
+{
+    "country": "Australia",
+    "city": "Canberra"
+},
+{
+    "country": "France",
+    "city": "Paris"
+},
+{
+    "country": "Germany",
+    "city": "Berlin"
+},
+{
+    "country": "Italy",
+    "city": "Rome"
+},
+{
+    "country": "Spain",
+    "city": "Madrid"
+},
+{
+    "country": "Russia",
+    "city": "Moscow"
+},
+{
+    "country": "China",
+    "city": "Beijing"
+},
+{
+    "country": "Japan",
+    "city": "Tokyo"
+},
+{
+    "country": "South Korea",
+    "city": "Seoul"
+},
+{
+    "country": "Mexico",
+    "city": "Mexico City"
+},
+{
+    "country": "Argentina",
+    "city": "Buenos Aires"
+},
+{
+    "country": "Peru",
+    "city": "Lima"
+},
+{
+    "country": "Chile",
+    "city": "Santiago"
+},
+{
+    "country": "South Africa",
+    "city": "Pretoria"
+},
+{
+    "country": "Egypt",
+    "city": "Cairo"
+},
+{
+    "country": "Nigeria",
+    "city": "Abuja"
+},
+{
+    "country": "Kenya",
+    "city": "Nairobi"
+},
+{
+    "country": "Morocco",
+    "city": "Rabat"
+},
+{
+    "country": "Saudi Arabia",
+    "city": "Riyadh"
+},
+{
+    "country": "United Arab Emirates",
+    "city": "Abu Dhabi"
+},
+{
+    "country": "Turkey",
+    "city": "Ankara"
+},
+{
+    "country": "Greece",
+    "city": "Athens"
+},
+{
+    "country": "Portugal",
+    "city": "Lisbon"
+},
+{
+    "country": "Netherlands",
+    "city": "Amsterdam"
+},
+{
+    "country": "Switzerland",
+    "city": "Bern"
+},
+{
+    "country": "Sweden",
+    "city": "Stockholm"
+},
+{
+    "country": "Norway",
+    "city": "Oslo"
+},
+{
+    "country": "Denmark",
+    "city": "Copenhagen"
+},
+{
+    "country": "Finland",
+    "city": "Helsinki"
+},
+{
+    "country": "Ireland",
+    "city": "Dublin"
+},
+{
+    "country": "Austria",
+    "city": "Vienna"
+},
+{
+    "country": "Belgium",
+    "city": "Brussels"
+},
+{
+    "country": "Czech Republic",
+    "capital": "Prague"
+},
+{
+    "country": "Indonesia",
+    "city": "Jakarta"
+},
+{
+    "country": "Thailand",
+    "city": "Bangkok"
+},
+{
+    "country": "Malaysia",
+    "city": "Kuala Lumpur"
+}, 
+{
+    "country": "Philippines",
+    "city": "Manila"
+}, 
+{
+    "country": "Singapore",
+    "city": "Singapore"
+}, 
+{
+    "country": "India",
+    "city": "New Delhi"
+}, 
+{
+    "country": "Pakistan",
+    "city": "Islamabad"
+}, 
+{
+    "country": "Bangladesh",
+    "city": "Dhaka"
+}, 
+{
+    "country": "Vietnam",
+    "city": "Hanoi"
+}, 
+{
+    "country": "South Sudan",
+    "city": "Juba"
+}, 
+{
+    "country": "Ethiopia",
+    "city": "Addis Ababa"
+}, 
+{
+    "country": "Tanzania",
+    "city": "Dodoma"
+}, 
+{
+    "country": "Uganda",
+    "city": "Kampala"
+}, 
+{
+    "country": "Somalia",
+    "city": "Mogadishu"
+}, 
+{
+    "country": "Algeria",
+    "city": "Algiers"
+}, 
+{
+    "country": "Tunisia",
+    "city": "Tunis"
+}, 
+{
+    "country": "Libya",
+    "city": "Tripoli"
+}, 
+{
+    "country": "Iran",
+    "city": "Tehran"
+}, 
+{
+    "country": "Iraq",
+    "city": "Baghdad"
+}]
